@@ -11,3 +11,5 @@ Insights and recommendations are provided on the following key areas:
 **Performance Analysis**: Is there a certain demographic that has higher likelihood of getting searched or arrested.
 
 An Interactive Tableau dashboard can be downloaded here.
+
+The Traffic Violations dataset comprises a single table containing over 2,052,875 records. Before initiating the analysis, a series of quality control procedures and exploratory checks were conducted to ensure data integrity and build familiarity with the dataset. The MySQL Workbench quieries used for these inspections and validations are available here.
