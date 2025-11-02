@@ -16,13 +16,13 @@ An Interactive Tableau dashboard can be downloaded here.
 
 **Data Cleaning and Preparation**
 
-The initial dataset contained over 1,048,570 traffic violation records and underwent a series of quality control and preparatory steps before analysis.After cleaning, the final dataset comprised 295,569 records.
+The initial dataset contained over 1,048,570 traffic violation records and underwent a series of quality control and preparatory steps before analysis. After cleaning, the final dataset comprised 295,569 records. All operations were performed using the SQL programming language.
 
 **Initial Data Integrity and Quality Control**
 
 **Missing Values and Skewness:** An initial assessment revealed most variables had an approximately normal distribution, while Search_Conducted and Search_Outcome required transformation due to their binary nature.
 
-**Handling Incomplete Records:** Missing data was determined to be structured rather than random. Consequently, any row missing information from several critical columns—specifically Search_Conducted and Search_Outcome, which were central to the analysis objectives—was removed from the dataset.
+**Handling Incomplete Records:** Missing data was determined to be structured rather than random. Consequently, any row missing information from several critical columns—specifically Search_Conducted and Search_Outcome, which were central to the analysis objectives—was removed from the dataset which consisted of 297,426 rows.
 
 **Duplicate Records:** Duplicate records were identified using a staging table methodology. A total of 455,575 redundant rows were subsequently deleted to ensure data integrity for analysis.
 
