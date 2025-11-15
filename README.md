@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
 **Demographics Impact on Searches and Arrests** : Impact of Race and gender on the number of searches and arrests.
 **Performance Analysis**: Is there a certain demographic that has higher likelihood of getting searched or arrested.
 
-An Interactive Tableau dashboard can be downloaded here.
+An Interactive Tableau dashboard can be downloaded [here](
 
 **DATA STRUCTURE & INITIAL CHECKS**
 
