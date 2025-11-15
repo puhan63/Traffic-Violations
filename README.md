@@ -7,7 +7,9 @@ This project aims to conduct a comprehensive analysis and synthesis of this data
 Insights and recommendations are provided on the following key areas:
 
 **Trends Analysis**: Evaluation of number of searches and arrests conducted by police officers by year and time to day.
+
 **Demographics Impact on Searches and Arrests** : Impact of Race and gender on the number of searches and arrests.
+
 **Performance Analysis**: Is there a certain demographic that has higher likelihood of getting searched or arrested.
 
 An Interactive Tableau dashboard can be downloaded [here](https://github.com/puhan63/Traffic-Violations/blob/main/Traffic_Violations_Updated.twbx).
@@ -41,3 +43,13 @@ The initial dataset contained over 1,048,570 traffic violation records and under
 Search_Conducted: This variable indicates whether a search was performed or not. It was converted to a binary scale where yes responses were set to 1 and no responses were set to 0.
 
 Search_Outcome: This variable indicates the result of a search. It was converted to a binary scale where arrests were set to 1 and all other outcomes (citations, SERO, warning, recovered evidence, or null) were set to 0.
+
+**EXECUTIVE SUMMARY**
+
+OVERVIEW OF FINDINGS
+
+Police searches peaked in 2013, while arrests reached their highest levels between 2015 and 2016. Searches occurred most frequently at night, followed by the afternoon and then the morning. Arrests showed the same pattern, with the highest numbers recorded at night, followed by the afternoon and morning.
+
+Below is part of the Tableau dashboard reflecting overall sentiment scores. More examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/puhan63/Traffic-Violations/blob/main/Traffic_Violations_Updated.twbx).
+
+
