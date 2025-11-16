@@ -60,4 +60,14 @@ ANALYSIS OF DEMOGRAPHICS
 
 PERFORMANCE ANALYSIS
 
+Overall, Black and Hispanic males were more likely to be searched or arrested, with higher rates occurring at night across all years.
 
+From 2012 to 2025, Black individuals were consistently searched more often than other groups, except in a few years where searches for Blacks and Hispanics were similar. Arrest patterns varied slightly by year, but Hispanics and Blacks generally had the highest arrest rates, with Whites usually lower.
+
+2012–2014: Blacks and Whites had higher search and arrest rates than Hispanics.
+
+2015–2019: Blacks and Hispanics were most frequently searched and arrested, with Whites trailing.
+
+2020–2024: Blacks continued to be searched the most, while Hispanics often had the highest arrest rates.
+
+2025: Limited data—only one recorded case involving a Black male who was both searched and arrested.
