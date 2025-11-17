@@ -50,7 +50,7 @@ OVERVIEW OF FINDINGS
 
 Police searches peaked in 2013, while arrests reached their highest levels between 2015 and 2016. Searches occurred most frequently at night, followed by the afternoon and then the morning. Arrests showed the same pattern, with the highest numbers recorded at night, followed by the afternoon and morning.
 
-Below is part of the Tableau dashboard reflecting overall sentiment scores. More examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/puhan63/Traffic-Violations/blob/main/Traffic_Violations_Updated.twbx).
+Below is part of the Tableau dashboard reflecting searches and arrests from 2012-2026. More examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/puhan63/Traffic-Violations/blob/main/Traffic_Violations_Updated.twbx).
 
 ANALYSIS OF DEMOGRAPHICS
 
