@@ -60,6 +60,8 @@ ANALYSIS OF DEMOGRAPHICS
 
 **Gender:** Males were searched and arrested most frequently, followed by females and those with undefined gender.
 
+![image](https://github.com/puhan63/Traffic-Violations/blob/main/Traffic_Violations_Image2.png)
+
 PERFORMANCE ANALYSIS
 
 Overall, Black and Hispanic males were more likely to be searched or arrested, with higher rates occurring at night across all years.
