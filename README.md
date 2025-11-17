@@ -18,7 +18,7 @@ An Interactive Tableau dashboard can be downloaded [here](https://github.com/puh
 
 **Data Cleaning and Preparation**
 
-The initial dataset contained over 1,048,570 traffic violation records and underwent a series of quality control and preparatory steps before analysis. After cleaning, the final dataset comprised 295,569 records. All operations were performed using the SQL programming language.
+The initial dataset contained over 1,048,570 traffic violation records and underwent a series of quality control and preparatory steps before analysis. After cleaning, the final dataset comprised 295,569 records. All operations were performed using the SQL programming language. The SQL queries used for these inspections are available here.
 
 **Initial Data Integrity and Quality Control**
 
