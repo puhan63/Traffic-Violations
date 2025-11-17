@@ -52,6 +52,8 @@ Police searches peaked in 2013, while arrests reached their highest levels betwe
 
 Below is part of the Tableau dashboard reflecting searches and arrests from 2012-2026. More examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/puhan63/Traffic-Violations/blob/main/Traffic_Violations_Updated.twbx).
 
+![image](https://github.com/puhan63/Traffic-Violations/blob/main/Traffic_Violations_Image1.png)
+
 ANALYSIS OF DEMOGRAPHICS
 
 **Race:** Black individuals experienced the highest number of searches and arrests, followed by Hispanic and then White individuals.
