@@ -75,3 +75,39 @@ From 2012 to 2025, Black individuals were consistently searched more often than 
 2020–2024: Blacks continued to be searched the most, while Hispanics often had the highest arrest rates.
 
 2025: Limited data—only one recorded case involving a Black male who was both searched and arrested.
+
+RECOMMENDATIONS
+
+Given the persistent discrepancies in the rates at which Black and Hispanic males are searched and arrested, especially during nighttime hours, the following actions are recommended:
+
+1. Strengthen Documentation and Oversight
+
+Require detailed, standardized documentation for all searches and arrests.
+
+Increase supervisory presence during evening and night shifts, when disparities are most pronounced.
+
+Conduct regular reviews to identify officers or departments that exceed established thresholds for searches or arrests involving specific demographic groups.
+
+2. Assess and Address Potential Bias
+
+Evaluate individual officers and departments for unconscious bias and cultural competence using validated psychological tools (e.g., Implicit Association Test [IAT], Matrix-Predictive Uniform Law Enforcement Selection Evaluation [M-PULSE], or California Psychological Inventory [CPI]).
+
+Use assessment results to identify individuals who may be at higher risk for biased decision-making or misconduct.
+
+3. Provide Targeted Training and Support
+
+Deliver cultural-competence training, mentoring, or corrective coaching to stations or officers who exceed disparity thresholds.
+
+Offer additional decision-making and accountability training for officers working high-disparity time periods such as night shifts.
+
+4. Enhance Transparency and Accountability
+
+Conduct random audits of body-worn camera footage.
+
+Evaluate the consistency between policies, officer actions, body-camera footage, and associated data to ensure compliance.
+
+Pair officers on night shifts to promote accountability and improve decision-making during higher-risk encounters.
+
+5. Improve Community Trust
+
+Publish annual or quarterly trends on searches and arrests to ensure transparency and strengthen public trust and accountability.
