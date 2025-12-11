@@ -1,4 +1,4 @@
-# Traffic-Violations
+# A Data-Driven Analysis of Traffic Violations, Searches, and Arrest Outcomes in Montgomery County
 
 Montgomery County, Maryland, has compiled data on all electronic traffic violations issued within the county. This information includes specific details regarding the nature of the violation, as well as driver demographics such as gender and race.
 
