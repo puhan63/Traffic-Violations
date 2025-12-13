@@ -106,6 +106,44 @@ Conduct random audits of body-worn camera footage.
 
 Evaluate the consistency between policies, officer actions, body-camera footage, and associated data to ensure compliance.
 
+FUTURE RECOMMENDATIONS
+
+To deepen insights and strengthen the analytical impact of this project, several enhancements and extensions are recommended:
+
+Location-Based Aggregation
+Group similar locations (e.g., neighborhoods, precincts, or road types) to uncover broader geographic trends and patterns that may not be visible at the individual stop level.
+
+Advanced Statistical Modeling
+Move beyond exploratory analysis by conducting inferential modeling, such as logistic regression, to estimate the likelihood of a search or arrest.
+
+Outcome variables: search_conducted, search_outcome
+
+Predictor variables: race, gender, time of day, year, violation type, and vehicle year
+
+Dataset Expansion
+Enhance the dataset by incorporating additional contextual variables that may influence outcomes, including:
+
+Weather conditions
+
+Road type (highway vs. local roads)
+
+Officer characteristics (years of experience, rank, gender, race, and prior reprimands)
+
+Interactive Dashboard Development
+Create a live, interactive dashboard to monitor trends in real time, enabling stakeholders to quickly identify emerging patterns and anomalies.
+
+Quarterly Trend Analysis
+Conduct quarterly analyses to assess short-term changes and disparities, allowing for timely interventions and policy adjustments.
+
+Public Data Transparency
+Make the dataset and data collection methodology publicly available to promote transparency, accountability, and community trust.
+
+Pre- and Post-Policy Evaluation
+Perform pre- and post-implementation analyses following new policies or training initiatives to evaluate their effectiveness in reducing disparities in searches and arrests.
+
+Controlled Modeling for Bias Assessment
+Develop models that control for key variables (e.g., time of day, violation type) to assess whether demographic factors such as race and gender remain significant predictors of search and arrest outcomes.
+
 Pair officers on night shifts to promote accountability and improve decision-making during higher-risk encounters.
 
 5. Improve Community Trust
