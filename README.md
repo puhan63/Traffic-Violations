@@ -115,13 +115,18 @@ Group similar locations (e.g., neighborhoods, precincts, or road types) to uncov
 
 2.	Advanced Statistical Modeling
 Move beyond exploratory analysis by conducting inferential modeling, such as logistic regression, to estimate the likelihood of a search or arrest.
+
 o	Outcome variables: search_conducted, search_outcome
+
 o	Predictor variables: race, gender, time of day, year, violation type, and vehicle year
 
 3.	Dataset Expansion
 Enhance the dataset by incorporating additional contextual variables that may influence outcomes, including:
+
 o	Weather conditions
+
 o	Road type (highway vs. local roads)
+
 o	Officer characteristics (years of experience, rank, gender, race, and prior reprimands)
 
 4.	Interactive Dashboard Development
